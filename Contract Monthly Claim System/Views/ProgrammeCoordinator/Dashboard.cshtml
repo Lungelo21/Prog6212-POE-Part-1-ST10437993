@@ -4,3 +4,31 @@
 @{
     ViewData["Title"] = "Dashboard";
 }
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Claim ID</th>
+            <th scope="col">Claim Name</th>
+            <th scope="col">Date of Claim</th>
+            <th scope="col">Supprting Documents</th>
+            <th scope="col">Claim Status</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr class="table-info">
+            <th scope="row">Display Claim ID</th>
+            <td>Display Claim Name</td>
+            <td>Display Claim Date</td>
+            <td>
+                <select class="form-select" id="exampleSelect1">
+                    <option>Document 1</option>
+                    <option>Document 2</option>
+                </select>
+                <a href="#">Download</a>
+            </td>
+            <td>Display Claim Status</td>
+        </tr>
+
+    </tbody>
+</table>
