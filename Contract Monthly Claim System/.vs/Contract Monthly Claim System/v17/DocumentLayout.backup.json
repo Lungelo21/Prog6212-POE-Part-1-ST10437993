@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|c:\\users\\lsokh\\source\\repos\\contract monthly claim system\\views\\claims\\claimform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|solutionrelative:views\\claims\\claimform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|c:\\users\\lsokh\\source\\repos\\contract monthly claim system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|c:\\users\\lsokh\\source\\repos\\contract monthly claim system\\views\\claims\\viewclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|solutionrelative:views\\claims\\viewclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|c:\\users\\lsokh\\source\\repos\\contract monthly claim system\\views\\academicmanager\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|solutionrelative:views\\academicmanager\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|c:\\users\\lsokh\\source\\repos\\contract monthly claim system\\models\\claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|solutionrelative:models\\claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|c:\\users\\lsokh\\source\\repos\\contract monthly claim system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|c:\\users\\lsokh\\source\\repos\\contract monthly claim system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|c:\\users\\lsokh\\source\\repos\\contract monthly claim system\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|solutionrelative:models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|c:\\users\\lsokh\\source\\repos\\contract monthly claim system\\models\\academicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|solutionrelative:models\\academicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|c:\\users\\lsokh\\source\\repos\\contract monthly claim system\\models\\claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|solutionrelative:models\\claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A0922F3-49D6-4BF7-8673-2EA4D8244332}|Contract Monthly Claim System.csproj|c:\\users\\lsokh\\source\\repos\\contract monthly claim system\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Lecturer.cs",
-              "DocumentMoniker": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\Models\\Lecturer.cs",
-              "RelativeDocumentMoniker": "Models\\Lecturer.cs",
-              "ToolTip": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\Models\\Lecturer.cs",
-              "RelativeToolTip": "Models\\Lecturer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T08:55:30.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClaimForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\Views\\Claims\\ClaimForm.cshtml",
-              "RelativeDocumentMoniker": "Views\\Claims\\ClaimForm.cshtml",
-              "ToolTip": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\Views\\Claims\\ClaimForm.cshtml",
-              "RelativeToolTip": "Views\\Claims\\ClaimForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ViewClaims.cshtml",
+              "DocumentMoniker": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\Views\\Claims\\ViewClaims.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\ViewClaims.cshtml",
+              "ToolTip": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\Views\\Claims\\ViewClaims.cshtml",
+              "RelativeToolTip": "Views\\Claims\\ViewClaims.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-17T08:48:44.023Z",
+              "WhenOpened": "2025-09-17T09:46:50.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\Views\\AcademicManager\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\AcademicManager\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\Views\\AcademicManager\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\AcademicManager\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T09:32:19.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Claims.cs",
               "DocumentMoniker": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\Models\\Claims.cs",
               "RelativeDocumentMoniker": "Models\\Claims.cs",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AcademicManager.cs",
               "DocumentMoniker": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\Models\\AcademicManager.cs",
               "RelativeDocumentMoniker": "Models\\AcademicManager.cs",
@@ -106,8 +106,7 @@
               "RelativeToolTip": "Models\\AcademicManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T08:10:19.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T08:10:19.48Z"
             },
             {
               "$type": "Document",
@@ -119,12 +118,11 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-17T05:43:30.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T05:43:30.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lsokh\\source\\repos\\Contract Monthly Claim System\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -132,8 +130,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-17T04:57:57.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T04:57:57.666Z"
             }
           ]
         }
